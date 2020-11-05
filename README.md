@@ -1,2 +1,2 @@
-# makestuff
+# makestuff.pl
 makestuff.pl repository
